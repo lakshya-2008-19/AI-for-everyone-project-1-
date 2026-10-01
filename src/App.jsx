@@ -8,7 +8,7 @@ import { KINDS, kindFromCode, gradient, searchPlaces, getWeather } from "./lib/w
 
 // Your 4 new anime backgrounds and stickers
 const PRESET_BGS = ['/1.jpg', '/2.jpg', '/3.jpg', '/4.jpg'];
-const PRESET_STICKERS = ['/g1.jpeg', '/g2.gif', '/g3.gif', '/g4.gif'];
+const PRESET_STICKERS = ['/g1.gif', '/g2.gif', '/g3.gif', '/g4.gif'];
 
 export default function App() {
   // --- Original State ---
